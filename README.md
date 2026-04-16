@@ -24,4 +24,4 @@ The project is under active development. Currently implemented:
 - [ ] Make the site fully responsive on mobile and other devices
 
 ## Author
-[Your name / nickname] — tester, aspiring web designer, and creator of calm places 🌱
+[VikaEtoDrugoe] — tester, aspiring web designer, and creator of calm places 🌱
