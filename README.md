@@ -1,5 +1,6 @@
 # 🌿 Fern & Fog — community-driven sanctuary of sound
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/120ec366-8fdd-4c4c-9ab3-f7f65fde8333/deploy-status)](https://app.netlify.com/projects/fernandfog/deploys)
 [![Netlify Status](https://img.shields.io/badge/deployed%20on-Netlify-00C7B7)](https://app.netlify.com)
 [![Project stage](https://img.shields.io/badge/stage-alpha-orange)]()
 
